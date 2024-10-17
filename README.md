@@ -1,9 +1,14 @@
 # Spring-crud-Master
-for steudents propose
+for students propose
 React.js and Spring Data REST - CRUD
 ====================================
 
-![React Spring CRUD](docs/img/spring-react-crud.png)
+![new one](https://github.com/user-attachments/assets/6e268522-0c42-4cb4-83e3-22fc392a279a)
+
+
+
+
+
 
 CRUD application with security enabled: a PoC with
 ReactJS in the frontend and Spring Data REST in the backend.
